@@ -1,0 +1,1 @@
+These files show the codes used in order to make the examples work in my Bechalor thesis. In order for these examples to work properly, you will have to download the sympy version that I have edited in my other repository.
